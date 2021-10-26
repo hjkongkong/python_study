@@ -1,1 +1,1 @@
-# machine-deep-learning
+# 머신러닝, 딥러닝 공부 repository
